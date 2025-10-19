@@ -1,0 +1,22 @@
+# Node / React
+node_modules/
+build/
+.env
+.DS_Store
+
+# Python / Flask
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+instance/
+venv/
+env/
+*.sqlite3
+
+# VSCode / IDE files
+.vscode/
+*.log
+
+# MacOS
+*.DS_Store
