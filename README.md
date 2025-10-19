@@ -16,7 +16,7 @@ ShrinkURL is a full-stack URL shortening application built with **Flask** (backe
 
 ## Getting Started
 
-### Backend Setup
+Backend Setup
 
 1. Navigate to the backend folder:
 
